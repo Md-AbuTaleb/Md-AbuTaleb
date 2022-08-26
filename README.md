@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Md Taleb.
+- 🔭 I’m currently working on Web Design & Web Development.
+- 🌱 I’m currently learning PHP & SQL.
 
 <!--
 **Md-AbuTaleb/Md-AbuTaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
